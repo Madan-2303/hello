@@ -1,5 +1,9 @@
+
 int main(){
 printf("hai");
-    return 0;
-};
+    
+printf("bye");
+	return 0;
+}
+
 
